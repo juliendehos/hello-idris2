@@ -1,0 +1,8 @@
+package hello
+
+executable = "hello"
+opts = "--total -p contrib"
+sourcedir = "src"
+main = Main
+modules = Hello
+
